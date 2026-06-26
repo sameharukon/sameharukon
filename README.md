@@ -9,3 +9,4 @@ Webエンジニアです
 - AWS Certified Solutions Architect - Associate
 - Google Cloud Certification - Cloud Digital Leader
 - Google Cloud Certification - Associate Cloud Engineer
+- Google Cloud Certification - Professional Cloud Architect
